@@ -1,2 +1,2 @@
 # CS685
-Assignments and necessary codes related to Data Mining (CS685) present here.
+Course assignments of Data Mining (CS685) are present here.
